@@ -9,7 +9,7 @@ profile:
   image: profile_pic_jona_ruthardt.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a herf=#> Personal Website </a></p>
+    <p><a herf=#> Blog Website </a></p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts

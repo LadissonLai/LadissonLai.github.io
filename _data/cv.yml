@@ -10,7 +10,7 @@
     - name: 技能
       value: Python \ C++ \ C# \ Web(HTML、CSS、JS) \CMake \ ROS \ CARLA \ PyTorch \ Linux \ Bash \ Git \ Docker \ Overleaf \ Unity
     - name: 主修课程
-      value: 微积分 \ 线性代数 \ 概率论  \ 操作系统 \ 数据结构 \ 计算机组成原理 \ 计算机网络 \ 机器学习 \ 自主移动机器人 \ 无人驾驶车辆
+      value: 
 
 - title: 教育经历
   type: time_table
@@ -19,7 +19,7 @@
       institution: 西南大学，重庆（中国）
       year: 09/2015-07/2019
       description:
-        - 主修课程：
+        - 主修或自学课程：微积分、线性代数、概率论、操作系统、数据结构、计算机组成原理、计算机网络、机器学习、自主移动机器人、无人驾驶车辆
 
 - title: 工作经历
   type: time_table
