@@ -2,13 +2,13 @@
   type: map
   contents:
     - name: Full Name
-      value: Jona Ruthardt
+      value: QiangQiangLai
     - name: Occupation
-      value: Master's Student at University of Amsterdam
+      value: Master's Student at University of MIT
     - name: Nationality
-      value: German
+      value: Chinese
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
