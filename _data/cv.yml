@@ -10,7 +10,7 @@
     - name: 技能
       value: Python \ C++ \ C# \ Web(HTML、CSS、JS) \CMake \ ROS \ CARLA \ PyTorch \ Linux \ Bash \ Git \ Docker \ Overleaf \ Unity
     - name: 主修课程
-      value: 微积分 \ 线性代数 \ 概率论  \ 操作系统 \ 数据结构 \ 计算机组成原理 \ 计算机网络 \ 机器学习 \ 自动驾驶
+      value: 微积分 \ 线性代数 \ 概率论  \ 操作系统 \ 数据结构 \ 计算机组成原理 \ 计算机网络 \ 机器学习 \ 自主移动机器人 \ 无人驾驶车辆
 
 - title: 教育经历
   type: time_table
