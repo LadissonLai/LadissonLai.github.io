@@ -2,18 +2,18 @@
 layout: about
 title: About
 permalink: /
-subtitle: Robot Navigation System Engineer @ SUSTC
+subtitle: Research Assistant @ SUSTC
 
 profile:
   align: right
   image: profile_pic_jona_ruthardt.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a herf=#> Blog Website </a></p>
+    <p><a herf="https://www.cnblogs.com/LadissonLai/"> Blog Website </a></p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -31,3 +31,4 @@ I am actively looking for Master positions at the moment.
 我正在努力寻找机器人运动规划相关的研究生学位。
 
 我正在努力的搭建机器人系统。。。
+
