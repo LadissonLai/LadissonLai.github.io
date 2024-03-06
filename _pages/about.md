@@ -9,7 +9,7 @@ profile:
   image: profile_pic_jona_ruthardt.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a herf="https://www.cnblogs.com/LadissonLai/"> Blog Website </a></p>
+    <p><a herf=#></a></p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -22,7 +22,7 @@ I am a research assistant engineer from the [Southern University of Science and 
 
 My research interests mainly revolve around unmanned systems, autonomous driving simulation, motion planning, etc. I am very excited to develop stable and robust motion planning algorithms and apply them to unmanned autonomous systems. I am also actively exploring the combination of artificial intelligence large model technology and motion planning.
 
-Currently, I am studying the open source [Robot Navigation System](https://github.com/ros-planning/navigation) source code. I hope to transform it and empower the large model with traditional planning algorithms, and finally apply it to my own automatic Driving the car above.
+Currently, I am studying the open source [Robot Navigation System](https://github.com/ros-planning/navigation) source code. I hope to transform it and empower the large model with traditional planning algorithms, and finally apply it to my own self-driving car.
 
 I am actively looking for PhD positions at the moment.
 
