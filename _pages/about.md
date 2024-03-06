@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: Robot Navigation System Engineer @ SUSTC
+subtitle: Navigation System Engineer @ SUSTech
 
 profile:
   align: right
   image: profile_pic_jona_ruthardt.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a herf=#> Blog Website </a></p>
+    <a herf = "https://www.cnblogs.com/LadissonLai"> Blog Website1 </a>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -17,17 +17,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a second-year master's student studying Artificial Intelligence at the University of Amsterdam. My research interests mainly revolve around Computer Vision, Multi-Modal Learning, and Autonomous Systems. I am excited about developing innovative AI solutions that transcend theoretical boundaries and address tangible real-world challenges. 
 
-Currently, I am working on my master's thesis, where we try to leverage the vast amount of encyclopedic knowledge contained within large language models for tasks in the computer vision domain. This project is carried out in cooperation with TNO's [Intelligent Imaging Group](https://www.tno.nl/en/about-tno/organisation/units/defence-safety-security/intelligent-imaging/) and under the joint supervision of [Gertjan Burghouts](https://gertjanburghouts.github.io/), [Yuki Asano](https://yukimasano.github.io/), and [Serge Belongie](https://sergebelongie.github.io).
+I am a research assistant engineer from the [Southern University of Science and Technology](https://www.sustech.edu.cn/) (shenzhen, China), working in the [SUStech ISUS Group](https://cse.sustech.edu.cn/faculty/~haoq/) team, mainly responsible for autonomous driving Construction of [simulation system](https://github.com/LadissonLai/AVP-Simulation). 
 
-I am actively looking for Master positions at the moment. 
+My research interests mainly revolve around unmanned systems, autonomous driving simulation, motion planning, etc. I am very excited to develop stable and robust motion planning algorithms and apply them to unmanned autonomous systems. I am also actively exploring the combination of artificial intelligence large model technology and motion planning.
 
-我是一名来自南方科技大学计算机科学与技术学院的研究助理工程师。我的研究方向主要集中在机器人运动规划、自动驾驶仿真、自主无人系统，我对于什么样的路径规划方向非常感兴趣，并且现在自己对什么路径规划技术感兴趣。
-我想要报考重庆大学。
+Currently, I am studying the open source [Robot Navigation System](https://github.com/ros-planning/navigation) source code. I hope to transform it and empower the large model with traditional planning algorithms, and finally apply it to my own automatic Driving the car above.
 
-目前，我辞职考研重庆大学的卓越工程师学院-智能网联汽车专业，从毕业参加工作以来我积累了编程经验、研究经验和领域知识，对于我继续深入机器人运动规划研究提供了有力保障。
+I am actively looking for PhD positions at the moment.
 
-我正在努力寻找机器人运动规划相关的研究生学位。
+我是一名来自[南方科技大学](https://www.sustech.edu.cn/)计算机科学与技术学院的研究助理工程师，在[SUStech ISUS Group](https://cse.sustech.edu.cn/faculty/~haoq/)团队工作，主要负责[自动驾驶仿真系统](https://github.com/LadissonLai/AVP-Simulation)的搭建。我的研究兴趣主要围绕在无人系统、自动驾驶仿真、运动规划等方面，我非常高兴能开发稳定鲁棒的运动规划算法，并应用在无人自主系统和我的自动驾驶智能小车上，同时也在积极探索人工智能大模型技术和运动规划的结合。
 
-我正在努力的搭建机器人系统。。。
+目前，我正在研究开源[机器人导航系统](https://github.com/ros-planning/navigation)源码，希望在上面改造，把大模型赋能传统的规划算法，最后再应用到自己的自动驾驶小车上面。
+
+目前，我正在努力寻找轮式移动机器人运动规划相关的博士学位。
